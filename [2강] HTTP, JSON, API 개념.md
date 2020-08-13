@@ -79,12 +79,6 @@ Key : Value 형식. Python의 dict type과 유사.
 
 `parse` = 역직렬
 
-![%5B2%E1%84%80%E1%85%A1%E1%86%BC%5D%20HTTP,%20JSON,%20API%20%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7%202fc28fb7a8604e83a7b37b2e4a38d3dd/Untitled.png](%5B2%E1%84%80%E1%85%A1%E1%86%BC%5D%20HTTP,%20JSON,%20API%20%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7%202fc28fb7a8604e83a7b37b2e4a38d3dd/Untitled.png)
-
-![%5B2%E1%84%80%E1%85%A1%E1%86%BC%5D%20HTTP,%20JSON,%20API%20%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7%202fc28fb7a8604e83a7b37b2e4a38d3dd/Untitled%201.png](%5B2%E1%84%80%E1%85%A1%E1%86%BC%5D%20HTTP,%20JSON,%20API%20%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7%202fc28fb7a8604e83a7b37b2e4a38d3dd/Untitled%201.png)
-
-### MDN json ([link](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/JSON))([mdn.github.io](https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json))
-
 moz://a 재단에서 운영하는 개발자 네트워크
 
 웹 기술 관련된 내용이 많음
@@ -137,6 +131,8 @@ API 서버 만들 때 REST를 사용해서 만들긴 하는데 그 한계를 페
 
 ### REST의 구성요소
 
-![%5B2%E1%84%80%E1%85%A1%E1%86%BC%5D%20HTTP,%20JSON,%20API%20%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7%202fc28fb7a8604e83a7b37b2e4a38d3dd/Untitled%202.png](%5B2%E1%84%80%E1%85%A1%E1%86%BC%5D%20HTTP,%20JSON,%20API%20%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7%202fc28fb7a8604e83a7b37b2e4a38d3dd/Untitled%202.png)
+1. 자원
 
-😒 뭔소린지 모르겠어서 일단 넘김
+2. 행위
+
+3. 표현
